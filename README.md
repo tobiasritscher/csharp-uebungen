@@ -2,7 +2,7 @@
 
 Bisher habe ich folgende Übungen für dich hier vorbereitet:
 
-### [Texte einfach verschlüsseln](https://github.com/tobiasritscher/csharp-uebungen/tree/dac2d254090fca3e9246aab7558211cd81b64869/Einfach%20Verschl%C3%BCsselt)
+### [Texte einfach verschlüsseln](BibliothekenIntegrieren-NLog)
 Es geht darum, dass du einen eingegebenen Text mit der [ROT13](https://de.wikipedia.org/wiki/ROT13) Verschlüsselung bearbeitest.
 
   - **Übungsfokus:** String, Kontrollstrukturen (for-Schleife, if-Abfrage), Problemlösung (vom Problem zum Code) 
