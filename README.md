@@ -1,6 +1,5 @@
 ## Übersicht der Übungen
 
-Bisher habe ich folgende Übungen für dich hier vorbereitet:
 
 ### [Texte einfach verschlüsseln](EinfachVerschluesselt)
 Es geht darum, dass du einen eingegebenen Text mit der [ROT13](https://de.wikipedia.org/wiki/ROT13) Verschlüsselung bearbeitest.
